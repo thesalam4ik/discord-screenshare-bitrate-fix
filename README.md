@@ -1,6 +1,6 @@
 # discord-screenshare-bitrate-fix
 
-Fixes Discord screen share stuck at ~500 kbps on macOS 27 (Tahoe successor beta).
+Fixes Discord screen share stuck at ~500 kbps on macOS 27 Golden Gate.
 
 ## Problem
 
